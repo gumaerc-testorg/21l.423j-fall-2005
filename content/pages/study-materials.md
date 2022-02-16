@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 79078189-6cf0-749c-e745-8b31cd96c46a
 ---
@@ -7,7 +9,7 @@ uid: 79078189-6cf0-749c-e745-8b31cd96c46a
 Modes in Anglo Folk Tradition
 -----------------------------
 
-The four modes that we meet up with both in Anglo-American folk song and fiddle tunes are the Ionian (major scale), Mixolydian, Dorian, and Aeolian (natural minor scale). The first two are called "major" because the basic tonic chord is major, and the second two are "minor" for the same reason. The Phrygian mode, as well as the Lydian (and the theoretical Lochrian), are very rarely encountered. The tritone, occurs in each scale in a different place. In the Ionian mode it is seen between fa and ti (the fourth and the seventh), and in the Dorian it is between mi and la (3rd and 6th), etc. Because of the half steps around this tritone, it was considered hard to sing - _diabolis in musica_ - and sometimes altered by raising or lowering notes in its pair. Hence, in Ionian mode F# and Bb, are common altered tones, the former going upward in melodies, and the latter coming down. Sometimes one or both notes of the tritone will be omitted from the scale altogether, which creates a hexatonic or pentatonic scale.
+The four modes that we meet up with both in Anglo-American folk song and fiddle tunes are the Ionian (major scale), Mixolydian, Dorian, and Aeolian (natural minor scale). The first two are called "major" because the basic tonic chord is major, and the second two are "minor" for the same reason. The Phrygian mode, as well as the Lydian (and the theoretical Lochrian), are very rarely encountered. The tritone, occurs in each scale in a different place. In the Ionian mode it is seen between fa and ti (the fourth and the seventh), and in the Dorian it is between mi and la (3rd and 6th), etc. Because of the half steps around this tritone, it was considered hard to sing - _diabolis in musica_ - and sometimes altered by raising or lowering notes in its pair. Hence, in Ionian mode F# and B{{< sup "b" >}}, are common altered tones, the former going upward in melodies, and the latter coming down. Sometimes one or both notes of the tritone will be omitted from the scale altogether, which creates a hexatonic or pentatonic scale.
 
 What is Celtic Music?
 ---------------------
