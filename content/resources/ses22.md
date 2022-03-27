@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 758a22fc-ee85-b859-5db4-991f87357aac
 resourcetype: Document
 title: ses22.pdf
 uid: 401fc5fe-e351-b545-a9a6-8928648290a4
