@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description, information on
+  meting times, a list of lecture topics, and a list of guest performances.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
