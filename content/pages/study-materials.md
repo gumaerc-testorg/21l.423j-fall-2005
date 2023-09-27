@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on modes in Anglo folk tradition and
+  discusses what the term 'Celtic music' covers.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains links to useful resources on folk songs, balladry,
+  early sheet music, and fiddle sources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
