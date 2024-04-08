@@ -13,66 +13,66 @@ Some Beginning Searches on the Internet
 
 ### Folk Songs
 
-[Folk Music of England, Scotland, Ireland, Wales, and America](http://www.contemplator.com/folk.html)
+{{% resource_link "acdba442-78ac-41f9-b59a-95ceffc093ab" "Folk Music of England, Scotland, Ireland, Wales, and America" %}}
 
 ### Balladry
 
-[Broadside Ballad Index](http://web.archive.org/web/20031228231244/users.erols.com/olsonw/BRDNDRD.HTM)
+{{% resource_link "d287cccc-f379-4b99-a7fa-723c286ded31" "Broadside Ballad Index" %}}
 
-[Bodleian Library Broadside Ballads](http://www.bodley.ox.ac.uk/ballads/)
+{{% resource_link "2ceaba78-d0e7-49d9-87f1-02ba476949e5" "Bodleian Library Broadside Ballads" %}}
 
-[Blackletter Ballads](http://www.lukehistory.com/resources/ballads.html)
+{{% resource_link "87666ccc-5ed3-470c-b816-d4e8bf542c52" "Blackletter Ballads" %}}
 
-[Traditional Ballad Index](http://www.csufresno.edu/folklore/BalladIndexTOC.html)
+{{% resource_link "379da730-ef80-45f2-8b16-1f41cd9b91ee" "Traditional Ballad Index" %}}
 
-[Ballads and Broadsides](http://bestoflegends.org/ballads/index.html)
+{{% resource_link "cbea5ca1-9d90-4554-8d8f-80e5d523bf93" "Ballads and Broadsides" %}}
 
-[Francis J. Child Ballads](http://www.contemplator.com/child/index.html)
+{{% resource_link "febcf540-5cf2-43b2-9ff1-7c5e9f81933c" "Francis J. Child Ballads" %}}
 
-[Early Child Ballads](http://www.pbm.com/~lindahl/ballads/early_child/#what)
+{{% resource_link "52329347-806d-483e-bf9d-e719158a6086" "Early Child Ballads" %}}
 
-[A Working KWIC Concordance to _Child's English and Scottish Popular Ballads_](http://www.colorado.edu/ArtsSciences/CCRH/Ballads/ballads.html)
+{{% resource_link "edf0def4-8881-459e-a726-6d5aa6580fa9" "A Working KWIC Concordance to _Child's English and Scottish Popular Ballads_" %}}
 
-[Hancher Ballads](http://mh.cla.umn.edu/prosstre.html)
+{{% resource_link "a641c7e1-23c4-4580-a392-c4fbbbd54601" "Hancher Ballads" %}}
 
-[Sixteenth-century Ballads](http://www.pbm.com/~lindahl/ballads/)
+{{% resource_link "a7cd8204-3fae-43c9-b430-c10a3fb15d04" "Sixteenth-century Ballads" %}}
 
-[Conrad Bladey's Beuk o' Newcassel Songs](http://cbladey.com/sang/geordiesang.html)
+{{% resource_link "7df26b68-1f88-4025-8025-01bfc1be30dc" "Conrad Bladey's Beuk o' Newcassel Songs" %}}
 
 ### Early Sheet Music
 
-[Sheet Music about Lincoln, Emancipation, and the Civil War](http://memory.loc.gov/ammem/scsmhtml/scsmhome.html)
+{{% resource_link "e6f8e51c-ee2d-46d9-9aaa-d01361e445e6" "Sheet Music about Lincoln, Emancipation, and the Civil War" %}}
 
-[Nineteenth-century Song Sheets](http://lcweb2.loc.gov/ammem/amsshtml/)
+{{% resource_link "7114102b-989a-4fb8-88c5-f22acf0baeb4" "Nineteenth-century Song Sheets" %}}
 
-[African-American Sheet Music](http://memory.loc.gov/ammem/collections/sheetmusic/brown/)
+{{% resource_link "b53d7fab-1c8a-4858-b79c-f91618e82dc4" "African-American Sheet Music" %}}
 
-[Lester Levy Collection of Sheet Music](http://levysheetmusic.mse.jhu.edu/)
+{{% resource_link "79533362-b16d-41e3-85c8-96d8e665bf53" "Lester Levy Collection of Sheet Music" %}}
 
-[Confederate Broadsides](http://www.oac.cdlib.org/findaid/ark:/13030/kt5t1nc68d)
+{{% resource_link "5d32e4e0-af8b-4ed2-b2d1-999c1cedf81f" "Confederate Broadsides" %}}
 
-[American Sheet Music](https://www.loc.gov/collections/american-sheet-music-1870-to-1885/about-this-collection/)
+{{% resource_link "7070355a-8350-4cef-9f6b-b141e8c30f2e" "American Sheet Music" %}}
 
-[Historic American Sheet Music](http://memory.loc.gov/ammem/award97/ncdhtml/hasmhome.html)
+{{% resource_link "dd5d2d87-af9d-4d36-bdd0-4c05441e9469" "Historic American Sheet Music" %}}
 
 ### Fiddle Sources
 
-[Fiddler's Companion](http://www.ceolas.org/tunes/fc/refs.html)
+{{% resource_link "b4558326-5fee-4711-a9c9-291ce684e639" "Fiddler's Companion" %}}
 
-[Old-time Music Homepage](http://www.oldtimemusic.com/)
+{{% resource_link "0a6525d1-a284-4fa4-8386-7f5f3d5f98ea" "Old-time Music Homepage" %}}
 
-[_Fiddler Magazine_](http://www.fiddle.com/)
+{{% resource_link "f5643072-a017-44f4-b47f-4d23109213b0" "_Fiddler Magazine_" %}}
 
-[Roots of American Fiddle Music](http://piccoloplace.org/html/piccoleles/PiccoleleCompare.shtml)
+{{% resource_link "f93bf747-df97-499d-8f1b-75293b35eb8c" "Roots of American Fiddle Music" %}}
 
-[County Sales](http://www.countysales.com/)
+{{% resource_link "954e612f-7a2a-4f3e-b4fa-ee3285f4108d" "County Sales" %}}
 
-[Cape Breton Music](http://www.sfcelticmusic.com/Capebret/capebcds.htm)
+{{% resource_link "bcc1d6fb-de2d-4e0c-8944-397f2d21c6e1" "Cape Breton Music" %}}
 
-[Charlie's Down-home Music](https://www.cabottrail.travel/cape-breton-island/things-to-do/?vl=1&adid=131)
+{{% resource_link "d3bd442f-07d3-4475-b551-4980a65f2695" "Charlie's Down-home Music" %}}
 
-[Camsco Music](https://mudcat.org/thread.cfm?threadid=11642)
+{{% resource_link "13249e91-355f-4cba-9032-c01ce8134735" "Camsco Music" %}}
 
-[Ossian U.S.A.](http://www.ossianusa.com/)
+{{% resource_link "f500e471-8462-4e11-b036-3b6d09dbd745" "Ossian U.S.A." %}}
 
-[Celtic Tunes](http://fiddlemusic.com/fiddle-tunes-celtic.html)
+{{% resource_link "3eb4a7fd-dccf-40e2-9012-9eded5391cb0" "Celtic Tunes" %}}

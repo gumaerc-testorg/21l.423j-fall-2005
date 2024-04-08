@@ -12,7 +12,7 @@ uid: 758a22fc-ee85-b859-5db4-991f87357aac
 ---
 ## Required Texts
 
-Allen, William Francis, Charles Pickard Ware, and Lucy McKim Garrison. [*Slave Songs of the United States*](http://docsouth.unc.edu/church/allen/allen.html). Gretna, LA: Pelican Publishing, 1998. ISBN: 9781565545939. (See a digital version of this text by UNC Chapel Hill.)
+Allen, William Francis, Charles Pickard Ware, and Lucy McKim Garrison. {{% resource_link "8ba3e8f8-81fd-42c6-8cbe-926b83452da6" "*Slave Songs of the United States*" %}}. Gretna, LA: Pelican Publishing, 1998. ISBN: 9781565545939. (See a digital version of this text by UNC Chapel Hill.)
 
 Child, Francis James. *English and Scottish Popular Ballads*. Vol. 1. Mineola, NY: Dover Publications, 2003. ISBN: 9780486431505.
 
@@ -272,7 +272,7 @@ Cohen, Anne and Norm. "Folk and Hillbilly Music: Further Thoughts on Their Relat
 
 Goldstein, Kenneth S. "The Impact of Recording Technology on the British Folksong Revival." In *Folk Music and Modern Sound*. Edited by William Ferris and Mary L. Hart. Jackson, MS: University Press of Mississippi, 1982, pp. 3-13. ISBN: 9780878051571.
 
-Eacker, Susan A., and Geoff. "A Banjo on Her Knee - Part I: Appalachian Women and America's First Instrument." [*Old-time Herald*](http://www.oldtimeherald.org/archive/back_issues/volume-8/8-2/full-banjo-on-her-knee.html) 8, no. 2.
+Eacker, Susan A., and Geoff. "A Banjo on Her Knee - Part I: Appalachian Women and America's First Instrument." {{% resource_link "da7149bc-ffa4-4b98-bf64-8acb7a226eb3" "*Old-time Herald*" %}} 8, no. 2.
 
  
 
