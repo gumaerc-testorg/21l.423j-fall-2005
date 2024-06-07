@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains reading questions for session 8 of the course.
 file: /courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/579c9b4f254f8be7c5b834d748a306d7_ses8.pdf
+file_size: 11533
 file_type: application/pdf
 learning_resource_types:
 - Readings
