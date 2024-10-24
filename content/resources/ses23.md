@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains reading questions for session 23 of the course.
-file: /courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/5ae060455d27396482d4d46b499eb322_ses23.pdf
+file: /ol-ocw-studio-app/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/5ae060455d27396482d4d46b499eb322_ses23.pdf
 file_size: 10455
 file_type: application/pdf
 learning_resource_types:
