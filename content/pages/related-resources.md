@@ -2,14 +2,13 @@
 content_type: page
 description: This section contains links to useful resources on folk songs, balladry,
   early sheet music, and fiddle sources.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 43c73f87-f6dd-99c8-c7d7-edf1164c67bc
 ---
-
-Some Beginning Searches on the Internet
----------------------------------------
+## Some Beginning Searches on the Internet
 
 ### Folk Songs
 
@@ -23,15 +22,13 @@ Some Beginning Searches on the Internet
 
 [Blackletter Ballads](http://www.lukehistory.com/resources/ballads.html)
 
-[Traditional Ballad Index](http://www.csufresno.edu/folklore/BalladIndexTOC.html)
-
 [Ballads and Broadsides](http://bestoflegends.org/ballads/index.html)
 
 [Francis J. Child Ballads](http://www.contemplator.com/child/index.html)
 
 [Early Child Ballads](http://www.pbm.com/~lindahl/ballads/early_child/#what)
 
-[A Working KWIC Concordance to _Child's English and Scottish Popular Ballads_](http://www.colorado.edu/ArtsSciences/CCRH/Ballads/ballads.html)
+[A Working KWIC Concordance to *Child's English and Scottish Popular Ballads*](http://www.colorado.edu/ArtsSciences/CCRH/Ballads/ballads.html)
 
 [Hancher Ballads](http://mh.cla.umn.edu/prosstre.html)
 
@@ -61,7 +58,7 @@ Some Beginning Searches on the Internet
 
 [Old-time Music Homepage](http://www.oldtimemusic.com/)
 
-[_Fiddler Magazine_](http://www.fiddle.com/)
+[*Fiddler Magazine*](http://www.fiddle.com/)
 
 [Roots of American Fiddle Music](http://piccoloplace.org/html/piccoleles/PiccoleleCompare.shtml)
 
