@@ -4,7 +4,7 @@ description: 'This resource contains a description of a recorded listening assig
   of audio recordings from Rounder Records (http://www.rounder.com/) used as
 
   examples in the class.'
-file: /ol-ocw-studio-app/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/434f7e629984c4774671d41fab8c7444_rounder_clips.pdf
+file: /courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/434f7e629984c4774671d41fab8c7444_rounder_clips.pdf
 file_size: 38142
 file_type: application/pdf
 learning_resource_types:
