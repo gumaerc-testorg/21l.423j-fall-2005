@@ -40,7 +40,7 @@ uid: 43c73f87-f6dd-99c8-c7d7-edf1164c67bc
 
 [Sheet Music about Lincoln, Emancipation, and the Civil War](http://memory.loc.gov/ammem/scsmhtml/scsmhome.html)
 
-[Nineteenth-century Song Sheets](http://lcweb2.loc.gov/ammem/amsshtml/)
+[Nineteenth-century Song Sheets](https://www.loc.gov/collections/nineteenth-century-song-sheets/about-this-collection/)
 
 [African-American Sheet Music](http://memory.loc.gov/ammem/collections/sheetmusic/brown/)
 
@@ -66,10 +66,8 @@ uid: 43c73f87-f6dd-99c8-c7d7-edf1164c67bc
 
 [Cape Breton Music](http://www.sfcelticmusic.com/Capebret/capebcds.htm)
 
-[Charlie's Down-home Music](https://www.cabottrail.travel/cape-breton-island/things-to-do/?vl=1&adid=131)
-
 [Camsco Music](https://mudcat.org/thread.cfm?threadid=11642)
 
 [Ossian U.S.A.](http://www.ossianusa.com/)
 
-[Celtic Tunes](http://fiddlemusic.com/fiddle-tunes-celtic.html)
+[Celtic Tunes](https://open.spotify.com/album/0y52hf4nASAGh8EPGCvOVu)

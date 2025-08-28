@@ -58,7 +58,7 @@ Gerould, Gordon Hall. "The Nature of Ballads." In *The Ballad of Tradition*. New
 
 Muir, Willa. "Ballad Background II," "The Northern Scottish Background," and "Story Material." In *Living with Ballads*. New York, NY: Oxford University Press, 1965, pp. 71-107.
 
-(PDF)
+ 
 
 Ballad performances by Craig-Morgan-Robson
 
@@ -68,8 +68,6 @@ Gerould, Gordon Hall. "Ballad Characteristics," and "Ballad as a Record of the P
 
 Pound, Louise. "Audience and Authorship as Mirrored in the Ballads." In *Poetic Origins and the Ballad*. New York, NY: Macmillan Company, 1921, pp. 95-106.
 
-(PDF)
-
  
 
 4
@@ -77,8 +75,6 @@ Pound, Louise. "Audience and Authorship as Mirrored in the Ballads." In *Poetic 
 Sharp, Cecil. "Introduction," "Origin," "Evolution," "The Modes," and "English Folk Scales." In *English Folk Song: Some Conclusions*. Wakefield, UK: E. P. Publishing, 1977, pp. xix-xxv, 21-41, and 47-91. ISBN: 9780854099290.
 
 Abrahams, Roger. "The Nature of Folk Tunes." In *Anglo-American Folksong Style*. Englewood Cliffs, NJ: Prentice-Hall, 1968, pp. 151-164.
-
-(PDF)
 
  
 
@@ -93,8 +89,6 @@ Emmerson, George. "Sang Abune a' Sang." In *Rantin' Pipe and Tremblin' String*. 
 Harker, Dave. "The Early Mediators," and "From Thomas Percy to Joseph Ritson." In *Fakesong*. Milton Keynes, UK: Open University Press, 1985, pp. 3-37. ISBN: 9780335150663.
 
 MacDowell, Paula. *The Women of Grub Street: Press, Politics and Gender in the London Literary Marketplace 1678-1730*. Oxford, UK: Clarendon Press, 1998, pp. 58-62 and 81-91.
-
- 
 
  
 
@@ -122,8 +116,6 @@ Finnegan, Ruth. "Transmission, Distribution, and Publication." In *Oral Poetry*.
 
 Bronson, Bertrand. "The Habits of the Ballad as Song." In *The Ballad as Song*. Berkeley, CA: University of California Press, 1970, pp. 92-111. ISBN: 9780520013995.
 
-(PDF)
-
  
 
 **Unit Two: The Fiddle and the Dance**
@@ -135,8 +127,6 @@ Breathnach, Breandean. "The Dance Music," and "The Great Collectors." In *Folk M
 Feldman, Alan. *The Northern Fiddler*. London, UK: Oak Publications, 1979, introduction, pp. 1-12. ISBN: 0711906823.
 
 MacLeod, Alistair. "Two Selected Stories." In *Island*. New York, NY: Norton, 2001. ISBN: 9780393050356.
-
-(PDF)
 
  
 
@@ -172,8 +162,6 @@ Southern, Eileen. "Solomon Northrup." In *Readings in Black American Music*. New
 
 Epstein, Dena. *Sinful Tunes and Spirituals*. Chicago, IL: University of Illinois Press, 2003, pp. 30-99, 112-124, and 161-190. ISBN: 9780252071508. (Excerpts.)
 
-(PDF)
-
 Performance by Dave Webber and Anni Fentiman, ballad singers
 
 12
@@ -186,8 +174,6 @@ Winans, Robert B. "Early Minstrel Show Music." In *Inside the Minstrel Mask*. Ed
 
 Wilder, Laura Ingalls. "The Madcap Days." In *Little Town on the Prairie*. 1941, pp. 252-262.
 
-(PDF)
-
 Film Viewing: Serrano, Angel, and Alvaro Toepke. *The Language You Cry In*. 1998.
 
 13
@@ -197,8 +183,6 @@ Chase, Gilbert. "The Negro Spirituals." In *America's Music*. Urbana, IL: Univer
 Epstein, Dena. "Religious Background." In *Sinful Tunes and Spirituals*. Chicago, IL: University of Illinois Press, 2003, pp. 191-231. ISBN: 9780252071508.
 
 Look over: Allen, William Francis, Charles Pickard Ware, and Lucy McKim Garrison. *Slave Songs of the United States*. Gretna, LA: Pelican Publishing, 1998. ISBN: 9781565545939.
-
-(PDF)
 
 Ballad paper revision due
 
@@ -226,23 +210,17 @@ Performance by Brian Peters, ballad singer
 
 Ritchie, Jean. *Singing Family of the Cumberlands*. Lexington, KY: University Press of Kentucky, 1988, pp. 3-94. ISBN: 9780813116792.
 
-(PDF)
-
  
 
 17
 
 Ritchie, Jean. *Singing Family of the Cumberlands*. Lexington, KY: University Press of Kentucky, 1988, pp. 95-256. ISBN: 9780813116792.
 
-(PDF)
-
  
 
 18
 
 Whisnant, David. "Hit Sounds Reasonable." In *All that is Native and Fine*. Chapel Hill, NC: University of North Carolina Press, 1984, pp. 3-102. ISBN: 9780807815618.
-
-(PDF)
 
  
 
@@ -272,9 +250,7 @@ Cohen, Anne and Norm. "Folk and Hillbilly Music: Further Thoughts on Their Relat
 
 Goldstein, Kenneth S. "The Impact of Recording Technology on the British Folksong Revival." In *Folk Music and Modern Sound*. Edited by William Ferris and Mary L. Hart. Jackson, MS: University Press of Mississippi, 1982, pp. 3-13. ISBN: 9780878051571.
 
-Eacker, Susan A., and Geoff. "A Banjo on Her Knee - Part I: Appalachian Women and America's First Instrument." [*Old-time Herald*](http://www.oldtimeherald.org/archive/back_issues/volume-8/8-2/full-banjo-on-her-knee.html) 8, no. 2.
-
- 
+Eacker, Susan A., and Geoff. "A Banjo on Her Knee - Part I: Appalachian Women and America's First Instrument." *Old-time Herald* 8, no. 2.
 
  
 
@@ -286,8 +262,6 @@ Cohen, Ronald. "Sinful Songs of the Southern Negro." In *Alan Lomax: Selected Wr
 
 Lomax, John, and Alan. *Our Singing Country*. Mineola, NY: Dover Publications, 2000, introduction and prefaces, pp. xiii-xxxv. ISBN: 9780486410890.
 
-(PDF)
-
  
 
 23
@@ -295,8 +269,6 @@ Lomax, John, and Alan. *Our Singing Country*. Mineola, NY: Dover Publications, 2
 Lomax, Alan. "My Heart Struck Sorrow." In *The Land Where the Blues Began*. New York, NY: Pantheon Books, 1993, pp. 3-63. ISBN: 9780679404248.
 
 Wald, Elijah. "What is Blues," "Race Records," and "What the Records Missed." *Escaping the Delta*. New York, NY: Amistad, 2004, pp. 3-69. ISBN: 9780060524234.
-
-(PDF)
 
  
 
@@ -308,12 +280,6 @@ Walker, Alice. "Nineteen Fifty-five."
 
  
 
- 
-
 25-26
-
- 
-
- 
 
 Presentation of class music projects
