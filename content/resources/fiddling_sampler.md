@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a description of a recorded listening assignment
   on fiddling.
-file: /courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/cae72ff2d62ca55c6fa0252f11688202_fiddling_sampler.pdf
+file: /ol-ocw-studio-app/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/cae72ff2d62ca55c6fa0252f11688202_fiddling_sampler.pdf
 file_size: 80055
 file_type: application/pdf
 learning_resource_types:
