@@ -12,7 +12,7 @@ uid: 758a22fc-ee85-b859-5db4-991f87357aac
 ---
 ## Required Texts
 
-Allen, William Francis, Charles Pickard Ware, and Lucy McKim Garrison. [*Slave Songs of the United States*](http://docsouth.unc.edu/church/allen/allen.html). Gretna, LA: Pelican Publishing, 1998. ISBN: 9781565545939. (See a digital version of this text by UNC Chapel Hill.)
+Allen, William Francis, Charles Pickard Ware, and Lucy McKim Garrison. {{% resource_link "86cd87b1-d1dd-4413-9ded-b5e439414958" "*Slave Songs of the United States*" %}}. Gretna, LA: Pelican Publishing, 1998. ISBN: 9781565545939. (See a digital version of this text by UNC Chapel Hill.)
 
 Child, Francis James. *English and Scottish Popular Ballads*. Vol. 1. Mineola, NY: Dover Publications, 2003. ISBN: 9780486431505.
 
